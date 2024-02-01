@@ -10,7 +10,7 @@ As a dedicated DevOps professional, I thrive on orchestrating seamless integrati
 - **Automation:** Expert in automating deployment pipelines using tools like Jenkins, GitLab CI.
 - **Infrastructure as Code (IaC):** Proficient in creating and managing infrastructure using Terraform.
 - **Containerization:** Skilled in Docker for containerization and Kubernetes for orchestration.
-- **Monitoring & Logging:** Experience with tools like Prometheus and ELK Stack.
+- **Monitoring & Logging:** Experience with tools like Zabbix, ENM, LSMR, Azure Monitor.
 
 🛠️ **Tech Stack:**
 - Languages: Python, Bash
